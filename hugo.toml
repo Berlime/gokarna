@@ -1,4 +1,4 @@
-baseURL = 'https://hugo1.satemporary.online/'
+baseURL = 'kamel.berlime.com'
 languageCode = 'en-us'
 title = 'Alter Ego Edited'
 theme = 'gokarna'
@@ -37,7 +37,7 @@ enableRobotsTXT = true
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'></span>"
+    pre = "<span data-feather>github</span>"
 
   [[menu.main]]
     identifier = "coffee"
