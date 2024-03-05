@@ -37,7 +37,7 @@ enableRobotsTXT = true
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
-    pre = "<img class='svg-inject' src='/icons/github.svg' />"
+    pre = "<span data-feather='github'></span>"
 
   [[menu.main]]
     identifier = "coffee"
