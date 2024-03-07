@@ -1,4 +1,4 @@
-baseURL = 'px2is0.satemporary.click'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Alter Ego Edited 2'
 theme = 'gokarna'
@@ -32,12 +32,12 @@ enableRobotsTXT = true
     weight = 2
 
 [[menu.main]]
-    identifier = "github"
+    identifier = 'github'
     url = "https://github.com"
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'>Tesst</span>"
+    pre = "<span data-feather='github'>Github</span>"
 
   [[menu.main]]
     identifier = "coffee"

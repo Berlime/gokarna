@@ -6,4 +6,6 @@ type = 'post'
 tags = ['Blog']
 +++
 
-HmmmmmmOkaysdfasdfasdfasdf
+HmmmmmmOkaysdfasdfasdfasdfKep
+
+Kepala hotak dia lah. okokokokok
