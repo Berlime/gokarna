@@ -1,7 +1,9 @@
 +++
 title = 'Alter Ego 2'
 date = 2024-03-08T19:35:45+08:00
-draft = true
+draft = false
+type = 'post'
+tags = ['Blog']
 +++
 
 Back in 2009 when I was 16, I launched my blog site with blogpost.com (now blogger.com).
