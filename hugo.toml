@@ -1,6 +1,6 @@
-baseURL = 'alterego.berlime.com'
+baseURL = 'https://alterego.berlime.com'
 languageCode = 'en-us'
-title = 'Alter Ego Edited 2'
+title = 'Alter Ego'
 theme = 'gokarna'
 
 # Automatically generate robots.txt
@@ -37,7 +37,7 @@ enableRobotsTXT = true
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'>Github</span>"
+    pre = "<span data-feather='github'></span>"
 
   [[menu.main]]
     identifier = "coffee"
