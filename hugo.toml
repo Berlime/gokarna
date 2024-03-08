@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'alterego.berlime.com'
 languageCode = 'en-us'
 title = 'Alter Ego Edited 2'
 theme = 'gokarna'
