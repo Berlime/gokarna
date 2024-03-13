@@ -1,6 +1,6 @@
 baseURL = 'https://alterego.berlime.com'
 languageCode = 'en-us'
-title = 'Alter Ego'
+title = 'Alter Ego 2'
 theme = 'gokarna'
 
 # Automatically generate robots.txt
@@ -14,7 +14,7 @@ enableRobotsTXT = true
     url = "/posts/"
     
     # You can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+    pre = "<span data-feather='book'></span>"
 
     # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
@@ -30,10 +30,11 @@ enableRobotsTXT = true
     name = "Tags"
     url = "/tags/"
     weight = 2
+    pre = "<span data-feather='tag'></span>"
 
 [[menu.main]]
     identifier = 'github'
-    url = "https://github.com"
+    url = "https://github.com/Berlime/hugo"
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
@@ -48,13 +49,21 @@ enableRobotsTXT = true
 
     [params]
   # URL for the avatar on homepage
-  avatarURL = ""
+  avatarURL = "/images/avatar/gokarna.jpg"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = ""
+  avatarSize = "size-m"
 
   # Description to display on homepage
-  description = "...a continuation from https://berlime5.blogspot.com"
+  socialIcons = [
+    {name = "facebook", url = "https://www.facebook.com/Berlime5"},
+    {name = "instagram", url = "https://www.instagram.com/Berlime"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/berlime-solutions/"},
+    {name = "email", url = "mailto:kamel@berlime.com"},
+    {name = "x", url = "https://x.com/berlime"}
+  ]
+
+  description = "A continuation from https://berlime5.blogspot.com"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
