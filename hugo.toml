@@ -75,6 +75,9 @@ enableRobotsTXT = true
   # Ideal usecase for this is to import custom js/css or add your analytics snippet
   customHeadHTML = ""
 
+# date format
+ dateFormat = "2 January, 2006"
+
   # Keywords relevant for SEO
   metaKeywords = ["blog", "gokarna", "hugo"]
 

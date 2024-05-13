@@ -14,7 +14,7 @@ You see, the way I did it was to write in a ‘magazine’ look and format where
 
 It has been about 4 years since I last blog.
 
-Now thanks to mdtasnim who introduced me back to blogging, this time hosting on my own server, own sub-domain.
+Now thanks to [mdtasnim](https://mdtasnim.com) who introduced me back to blogging, this time hosting on my own server, own sub-domain.
 
 I hereby announce, the launch of Alter Ego 2. My 5th journal/blogging iteration. Here are just a brief breakdown of the editions.
 
