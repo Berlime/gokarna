@@ -6,6 +6,8 @@ type = 'post'
 tags = ['blog', "backtracked"]
 +++
 
+>Original Post date: 13th May 2024
+
 You see ever since my late mom got this house, it is still in the current vanilla state. My late mom did not opt for any renovations or even fancy decorations and pieces of furniture.
 
 The only thing that my mom did is the kitchen cabinet and countertop which did not come included when we got this house. 
