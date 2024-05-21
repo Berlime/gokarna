@@ -1,18 +1,18 @@
 +++
 title = 'WP Meet Up'
-date = 2024-01-13T22:56:44+08:00
+date = 2024-01-19T22:56:44+08:00
 draft = false
 type = 'post'
 tags = ['blog', "backtracked"]
 +++
 
-Hello there, here is the first backtracked post. It is a draft I created while developing this new Hugo site. Let me bring you back in time. The post date is the event date that happened and I will indicate the real date that I post a backtracked blog.
+Hello there, here is the first backtracked post. It is a draft I created while developing this new Hugo site. Let me bring you back in time. The post date is the event date that happened. The real date that I post a backtracked blog will have a "Original Post Date:"
 
->Post date: 19th March 2024
+>Original Post date: 19th March 2024
 
-Happy new year! It's 2024. How was 2023? I'm sure it's a blast. I want to share something exciting for this year.
+Happy new year! It's 2024. How was 2023? I'm sure it was a blast. I want to share something exciting for this year.
 
-You see, I run a small web-design agency, a super small one. I started my "Pte. Ltd" which is similar to LLC in the United States back in September 2023. The reason is, it is time for hard-work to be available to everyone.
+You see, I run a small web-design agency, a super small one. I started my "Pte. Ltd" (similar to LLCin the U.S) back in September 2023. The reason is, it is time for my hard-work to be available for everyone.
 
 But wouldn't it be just fine to offer services as a side hustle without the hassle of a "Pte. Ltd."? You say... Well, you see there are datas that are worth taking note, according to Small Business Trends quoted from [Embroker](https://www.embroker.com/blog/startup-statistics/#:~:text=The%20number%20one%20reason%20why,found%20in%2042%25%20of%20cases.&text=The%20second%20largest%20reason%20why,of%20funding%20and%20personal%20money.&text=Other%20notable%20cases%20of%20failure,beat%20by%20competition%20(19%25).), 2 out of 5 startups are profitable...
 

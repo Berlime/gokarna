@@ -8,24 +8,23 @@ tags = ['blog', "backtracked"]
 
 >Original Post date: 13th May 2024
 
-You see ever since my late mom got this house, it is still in the current vanilla state. My late mom did not opt for any renovations or even fancy decorations and pieces of furniture.
+Ever since my late mom bought the house I currently live in, it is still in the original, unadorned state. My late mom did not opt for any renovations or even fancy decorations and pieces of furniture.
 
-The only thing that my mom did is the kitchen cabinet and countertop which did not come included when we got this house. 
+The only thing that my mom did was the kitchen cabinet and countertop which was not included when we got this house. 
 
 Oh yeah, we got it first-hand, brand new back in around 2014.
 
-Now it is 2024. It is really due for a brand new paint. Gosh, can you imagine how long?!
+Now it is 2024. It is really overdue for a brand new paint.
+It's just a small bedroom - square-shaped with a decent ceiling height.
 
-So it is just a small bedroom, square, pretty decent height in ceiling. 
+I thought choosing colours was easy but nope. I was totally wrong. Haha! Can you believe I spent hours and days agonizing the ideal colours for my atmosphere, environment and the look and feel I wanted? All I could say is quite a daunting task.
 
-I thought choosing colours was easy but nope. I was totally wrong. Haha! Can you believe I spent hours and days looking for the ideal colours for my eyes, the environment and the look and feel I wanted? Turns out it can be quite daunting. LOL.
+Lucky there is a help of Pinterest which cuts of my decision-making time by half! 
 
-Well lucky there is a help of Pinterest which cuts of my decision-making by half! 
+Well, actually, me and my wife had fun painting the room, the best part is actually decluttering and getting rid of things that are not needed. Oh yup, we remove everything in the room and leave nothing behind to make way for a very efficient painting work -- NOPE, not efficient at all, we are so noob but at least we got the work done. YAY! 
 
-Well, we had fun painting the room, the best part is actually decluttering and trash things that are not needed. Oh yup, we remove everything in the room and leave nothing behind to make way for a very efficient painting work. Nope LOL. 
+We may be complete novices at painting, and let me tell you, our bodies is aching here and there. But the thing that I find this painting is the key moment in life is because that we finally chose colours that will likely last another 10 years. >.<
 
-Gosh we are so noob at painting and our body is aching here and there. But the thing that I find this painting is the key moment in life is because that we actually land on the colours that will last probably another 10 years. >.<
-
-And also, we do not colour all the walls, we only colour the ceiling, and 1 of the 4 walls. The rest is just white. According to my godly hours of research, there is a colour illusion that makes a square room look long.
+We didn't paint all the walls - just the ceiling and one of the four walls. The rest stayed white. According to my countless hours of research, there's a color illusion that makes a square room appear longer. I haven't noticed it yet, but just having the room freshly painted makes it look so much better than it did with the outdated walls.
 
 Well I didn’t notice it actually, but just getting the room freshly painted already makes it look way more beautiful than the outdated walls.

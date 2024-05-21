@@ -6,9 +6,9 @@ type = 'post'
 tags = ['blog', "backtracked"]
 +++
 
-Back in 2009 when I was 16, I launched my blog site with blogpost.com (now blogger.com).
+When I was 16, I launched my blog site with blogpost.com (now blogger.com).
 
-You say why I blog? Well before this, I didn’t mange to get a hold of a computer. So what I did is, write a journal. I wouldn’t call it a journal.
+You say why I blog? Well before this, I didn’t mange to get a hold of a computer. So what I did is, write a journal but wouldn’t call it a journal.
 
 You see, the way I did it was to write in a ‘magazine’ look and format where there will be so called “ads” for the stuff I find interesting. There are 3 versions of this which will remain offline for keepsake and nostalgic moments.
 
