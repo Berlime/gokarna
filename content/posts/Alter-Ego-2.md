@@ -14,9 +14,9 @@ You see, the way I did it was to write in a ‘magazine’ look and format where
 
 It has been about 4 years since I last blog.
 
-Now thanks to [mdtasnim](https://mdtasnim.com) who introduced me back to blogging, this time hosting on my own server, own sub-domain.
+Now thanks to [mdtasnim](https://mdtasnim.com) who introduced me back to blogging, this time hosting on my own server & own sub-domain.
 
-I hereby announce, the launch of Alter Ego 2. My 5th journal/blogging iteration. Here are just a brief breakdown of the editions.
+I hereby announce, the launch of Alter Ego 2. My 5th journal/blogging iteration. Here are the brief breakdown of the editions.
 
 ### 1. First Edition
 
@@ -51,6 +51,6 @@ I hereby announce, the launch of Alter Ego 2. My 5th journal/blogging iteration.
     Title: Alter Ego 2
     Theme: Gokarna.
     Type: Online (Blogpost, now known as blogger)
-    Description: A continuation of the previous https://berlime5.blogspot.com
+    Description: A continuation of the previous blog (4th Edition)
 
 So this is my first post ever in this blog. If you see posts before this date, those are a #backtracked posts which means, I will post from the beginning of 2024 which I already drafted while developing this new blog. Cheers!

@@ -14,10 +14,10 @@ The only thing that my mom did was the kitchen cabinet and countertop which was 
 
 Oh yeah, we got it first-hand, brand new back in around 2014.
 
-Now it is 2024. It is really overdue for a brand new paint.
+A decade later. It is really overdue for a brand new paint.
 It's just a small bedroom - square-shaped with a decent ceiling height.
 
-I thought choosing colours was easy but nope. I was totally wrong. Haha! Can you believe I spent hours and days agonizing the ideal colours for my atmosphere, environment and the look and feel I wanted? All I could say is quite a daunting task.
+I thought choosing colours was easy, but nope. I was totally wrong. Haha! Can you believe I spent hours and days agonizing the ideal colours for my atmosphere, environment and the look and feel I wanted? All I could say is quite a daunting task.
 
 Lucky there is a help of Pinterest which cuts of my decision-making time by half! 
 
