@@ -6,11 +6,21 @@ type = 'post'
 tags = ['blog', "backtracked"]
 +++
 
-Hello there, here is the first backtracked post. It is a draft I created while developing this new Hugo site. Let me bring you back in time. The post date is the event date that happened. The real date that I post a backtracked blog will have a "Original Post Date:" (See example below)
+Hello there! Before we start on the topic. This is the first backtracked post. It was a draft I while developing this new Hugo site.
+Let me bring you back in time. The post date you see above is the event or the moment happened. The real date that I post a backtracked blog is under "Published Date" (See example below)
 
->Original Post date: 19th March 2024
 
-Well, happy new year! It's 2024. How was 2023? I'm sure it was a blast. I want to share something exciting for this year.
+> - *Changelog*
+>   - *Publish Date: 19th June 2024*
+>   - *Restructure: 21th June 2024*
+
+The changelog(s) will be*grayed out* and placed in the bottom of every blog post. With added a little bit of context what are the changes is made to the particular posts.
+
+Thank you for your time & let's get started!
+
+### Well, happy new year!
+
+It's 2024. How was 2023? I'm sure it was a blast. I want to share something exciting for this year.
 
 You see, I run a small web-design agency, a super small one. I started my "Pte. Ltd" (similar to LLC in the U.S) back in September 2023. The reason is, it is time for my hard-work to be available for everyone.
 
@@ -28,7 +38,8 @@ The approach of getting my "Pte. Ltd." seems to have a good first impression tha
 
 You will learn about the legal matters, taxes and how your country works in terms of running a business. This way, your next big step can be easily achieved. Best part is, you do not have to do it everything by yourself! In fact, my company uses [Osome](https://my.osome.com/get-started?q=sg-referral&clientref=8M3K8G) to handle most of the part and it includes accounting!
 
-*Last updated: 19th June 2024*
-
-
+> - *Changelog*
+>   - *Publish Date: 19th June 2024*
+>   - *Restructure: 21th June 2024*
+>   - *Post dates changelog(s) added: 16th Aug 2024*
 

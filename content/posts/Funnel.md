@@ -10,9 +10,9 @@ tags = ["agency"]
 
 ## First Berlime's Funnel (TOFU *a.k.a Top Of the Funnel*)
 
-You can read more about Tofu [here](https://link.com). A funnel is basically a terminology used to generate leads. It is basically a way to filter through visitors or people that captures their attention into your business. A way of getting leads is to filter out the people through a funnel.
+You can read more about Tofu [here](https://getwpfunnels.com/top-of-the-funnel/). A funnel is basically a terminology used to generate leads. It is basically a way to filter through visitors or people that captures their attention into your business. Eventually turning them into paying visitors.
 
-So, Tofu is exactly how it sounds like. We first bring people into the funnel which is the widest part of the funnel. So that first, wide layer is called 'top of the funnel". Which essentially what people see when they first enter your funnel.
+So, Tofu is exactly how it sounds like. We first bring people into the funnel which is the widest part of the funnel. The wide part of the funnel, is called 'top of the funnel". Which essentially what people see when they first enter your funnel.
 
 ### Creating a funnel is not as easy as I thought.
 
@@ -36,4 +36,6 @@ All I want to say today is, sometimes we need to takes things slowly and do not 
 
 ### Conclusion: Just Take Your Time.
 
-*Last updated: 19th June 2024*
+*Post Changelogs*
+*19th June 2024 - Added Content*
+*14th August 2024 - Improve context*
