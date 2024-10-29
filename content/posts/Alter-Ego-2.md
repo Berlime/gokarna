@@ -1,5 +1,5 @@
 +++
-title = 'Alter Ego 2'
+title = 'Alter Ego 2 - First Post'
 date = 2024-03-08T19:35:45+08:00
 draft = false
 type = 'post'
