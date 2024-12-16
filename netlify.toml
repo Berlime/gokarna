@@ -1,0 +1,7 @@
+[build.environment]
+HUGO_VERSION = "v0.140.0-DEV"
+TZ = "America/Los_Angeles"
+
+[build]
+publish = "public"
+command = "hugo --gc --minify"
