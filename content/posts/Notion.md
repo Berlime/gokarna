@@ -39,6 +39,12 @@ Go and try! It's **FREE**.
 
 I stumble upon his [YouTube](https://www.youtube.com/watch?v=CHeIvIzb3_4) video. The link is not a video that I stumbled upon at first, rather an update to the template that is available for sale. Yes! I bought a template for this and thank god there is an update, a powerful one. No regrets!
 
+asass
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 > - *Changelogs*
 >   - *Publish Date: 16th Aug 2024*
